@@ -1,0 +1,23 @@
+RewriteEngine On
+
+RewriteRule ^about$ about.php [L]
+RewriteRule ^contact$ contact.php [L]
+RewriteRule ^ehs$ ehs.php [L]
+RewriteRule ^foya$ foya.php [L]
+RewriteRule ^health$ health.php [L]
+RewriteRule ^healths$ healths.php [L]
+RewriteRule ^index$ index.php [L]
+RewriteRule ^insurance$ insurance.php [L]
+RewriteRule ^kolahun$ kolahun.php [L]
+RewriteRule ^leadership$ leaderhip.php [L]
+RewriteRule ^liberia$ liberia.php [L]
+RewriteRule ^lofa$ lofa.php [L]
+RewriteRule ^saleyea$ saleyea.php [L]
+RewriteRule ^sanitation$ sanitation.php [L]
+RewriteRule ^team2$ team.php [L]
+RewriteRule ^surveilance$ surveilance.php [L]
+RewriteRule ^vahun$ vahun.php [L]
+RewriteRule ^vital$ vital.php [L]
+RewriteRule ^hvoinjama$ html.php [L]
+RewriteRule ^zorzor$ zorzor.php [L]
+
