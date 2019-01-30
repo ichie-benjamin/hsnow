@@ -141,7 +141,7 @@
                         <div class="tm-breadcrumb">
                             <h2>About Us</h2>
                             <ul>
-                                <li><a href="<?php echo ROOT_URL ?>index">Home</a></li>
+                                <li><a href="index.php">Home</a></li>
                                 <li>About</li>
                             </ul>
                         </div>
