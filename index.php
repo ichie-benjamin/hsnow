@@ -68,7 +68,7 @@
                         <div class="col-lg-6">
                             <div class="about-content">
                                 <h2>Welcome to Eli Health System</h2>
-                                <h6>Health Care for Everyone.</h6>
+                                <h6>HealthCare for the poor.</h6>
                                 <p>We are an emerging community global health Organization with a mission to provide  Universal
                                    Primary Health Care System in Sub-Saharan Africa that is portable and accessible by all.</p>
                                 <p>EHS aligned with the Institute of Health Care Improvement
