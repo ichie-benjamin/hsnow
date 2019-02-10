@@ -77,6 +77,8 @@
                                         <li><a href="about.php">Our History</a></li>
                                         <li><a href="leadership.php">Leadership</a></li>
                                         <li><a href="team2.php">Team Liberia</a></li>
+                                        <li><a href="organisation.php">Our Organization Structure</a></li>
+                                        
                                     </ul>
                                 </li>
                                 <li class="tm-navigation-dropdown"><a href="#">Department Programs</a>
