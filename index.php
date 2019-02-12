@@ -62,7 +62,7 @@
                         <div class="col-lg-6">
                             <div class="about-image2">
                                 <img class="wow fadeInLeft" src="assets/images/admins/eli.jpg" alt="Elisha Chadwell">
-                                <p>Elisha Caldwell, President and CEO</p>
+                                <p>Elisha Caldwell (MPH), President and CEO</p>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -170,7 +170,7 @@
                         </div>
                     </div>
                 </div>
-                <div class=" col-xl-9 col-lg-12 feature-image">
+                <div class=" col-lg-9 col-md-12 feature-image">
                     <img class="wow fadeInLeft" src="assets/images/others/henry.jpg" alt="feature image">
                     <h5>Otunuya Henry Chukwudi, Database Specialist | Nigeria.</h5>
                 </div>
@@ -193,8 +193,8 @@
                                     <i class="fas fa-plus"></i>
                                 </span>
                                 <div class="tm-funfact-content">
-                                    <span class="odometer" data-count-to="80"></span>
-                                    <h5>Projects Complete</h5>
+                                    <span class="odometer" data-count-to="4"></span>
+                                    <h5>Four Projects Underway</h5>
                                 </div>
                             </div>
                         </div>
@@ -207,8 +207,8 @@
                                     <i class="fas fa-hospital"></i>
                                 </span>
                                 <div class="tm-funfact-content">
-                                    <span class="odometer" data-count-to="2"></span>
-                                    <h5>Hospitals</h5>
+                                    <span class="odometer" data-count-to="1"></span>
+                                    <h5>Health Center</h5>
                                 </div>
                             </div>
                         </div>
